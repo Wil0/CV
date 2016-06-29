@@ -32,7 +32,7 @@ I have always found easy to learn new things, I was able to immerse myself in a 
 - Ruby, Rails, Javascript, AngularJS
 - Rspec, Jasmine
 
-#### Expert´s Degree in Auditing and Accounting (September 2007 to July 2008)
+#### Expert's Degree in Auditing and Accounting (September 2007 to July 2008)
 *College of Economists of Asturias and Faculty of Economics and Business, University of Oviedo (Spain)*
 
 #### Degree in Business Administration and  Management (September 2001 to July 2007)
