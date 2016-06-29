@@ -54,3 +54,8 @@ I have always found easy to learn new things, I was able to inmerse myself in a 
 
 **Mieres Tubos, S.L. –  CONDESA Group (Spain)**(April 2010 to November 2010)
 *Internship*
+
+## Hobbies
+
+- I like reading Stephen King's novels, they usually make me travel(not phisically unfortunately) to the 50's - 70's where life was quieter but sadly lacked of technology.
+- I have recently developed a taste for table tennis, I am not very good player yet, but it is just a matter of time!
