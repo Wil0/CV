@@ -1,5 +1,6 @@
 ## Emilio Menendez
-####[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+
 An enthusiastic, avid learner about almost anything life has to offer and specially with a fond passion for new technologies. I am proud of having had the opportunity of working in two different countries gaining experience of other cultures and working styles that taught me the benefits of being flexible and adaptable. I am now looking for a new adventure and a new challenge within a friendly team that likes sharing both personal and professional aspects of life.
 
 ## Skills
