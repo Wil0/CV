@@ -22,7 +22,7 @@ I have always found easy to learn new things, I was able to immerse myself in a 
 
 ## Education
 
-#### Makers Academy (April 2016 to June 2016)
+#### Makers Academy. Web Developer bootcamp(April 2016 to June 2016)
 
 - OOP, TDD, MVC, SOLID principles
 - Curiosity for new languages and technologies
