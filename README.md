@@ -1,7 +1,7 @@
 ## Emilio Menendez
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-An enthusiastic, avid learner about almost anything life has to offer and specially with a fond passion for new technologies. I am proud of having had the opportunity of working in two different contries, Spain and England, that have taught me how important it is being open-minded, flexible and adaptable, always keen to learn and see the tough experiences as a part of the process of learning and gaining experience of other cultures and working styles. I am now looking for a new adventure and a new challenge within a friendly team that likes sharing both personal and professional aspects of life.
+An enthusiastic, avid learner about almost anything life has to offer and specially with a fond passion for new technologies. I am proud of having had the opportunity of working in two different countries, Spain and England, that have taught me how important it is being open-minded, flexible and adaptable, always keen to learn and see the tough experiences as a part of the process of learning and gaining experience of other cultures and working styles. I am now looking for a new adventure and a new challenge within a friendly team that likes sharing both personal and professional aspects of life.
 
 ## Skills
 
@@ -19,12 +19,12 @@ My past experience has shown me that it is very important for everyone in the te
 
 #### Fast learner
 
-I have always found easy to learn new things, I was able to immerse myself in a highly demanding English work environment six months after arriving to England. During the 12 weeks in Makers Academy I had the chance to push myself even further, learning completely new programmming languages in a short space of time.
+I have always found easy to learn new things, I was able to immerse myself in a highly demanding English work environment six months after arriving to England. During the 12 weeks in Makers Academy I had the chance to push myself even further, learning completely new programming languages in a short space of time.
 
 **Projects I contributed to:**
 
 - [*MakersBnB*](https://github.com/Wil0/makersBnB): A clone of AirBnb that allows the user to view, request and book places to spend the night when travelling.
-- [*Regexperts*](https://github.com/Wil0/regexperts): A website that allows the user to learn about regular expressions in a fun and entertainning way.
+- [*Regexperts*](https://github.com/Wil0/regexperts): A website that allows the user to learn about regular expressions in a fun and entertaining way.
 
 ## Education
 
