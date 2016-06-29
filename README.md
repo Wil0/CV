@@ -21,6 +21,11 @@ My past experience has shown me that it is very important for everyone in the te
 
 I have always found easy to learn new things, I was able to immerse myself in a highly demanding English work environment six months after arriving to England. During the 12 weeks in Makers Academy I had the chance to push myself even further, learning completely new programmming languages in a short space of time.
 
+**Projects I contributed to:**
+
+- [*MakersBnB*](https://github.com/Wil0/makersBnB): A clone of AirBnb that allows the user to view, request and book places to spend the night when travelling.
+- [*Regexperts*](https://github.com/Wil0/regexperts): A website that allows the user to learn about regular expressions in a fun and entertainning way.
+
 ## Education
 
 #### Makers Academy. Web Developer bootcamp(April 2016 to June 2016)
@@ -39,8 +44,6 @@ I have always found easy to learn new things, I was able to immerse myself in a 
 *Faculty of Economics and Business, University of Oviedo (Spain)*
 
 *Subjects: Accounting and Auditing, Finance, Taxation, Business Control, Management*
-
-
 
 ## Experience
 
