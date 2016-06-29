@@ -7,15 +7,15 @@ An enthusiastic, avid learner about almost anything life has to offer and specia
 
 #### Attention to detail
 
-During my time working as member of Mieres Tubos's Accounts team I learnt to be very precise looking after every single piece of information. Month-end was the period when accuracy was key to maintain the accounts up to date and ready to be presented without delays.
+During my time working as member of Mieres Tubos's Accounts team I learnt to be very precise looking after every single piece of information. During monthly close periods accuracy was key to maintain the accounts up to date and ready to be presented without delays, so it was my responsibility take care of the final information.
 
 #### Pair programming
 
-I really enjoy working within a team or with another person from whom I can learn and to whom I can contribute with my experience. When at university I found out than it was much easier learning by sharing knowledge. At Makers Academy I have had the opportunity of putting it again into practice. During one of those difficult days pairing with a very different type of personality, I managed to keep the working environment enjoyable and fun while professional and productive.
+I really enjoy working within a team or with another person from whom I can learn and to whom I can contribute with my experience. When at university I found out than it was much easier learning by sharing knowledge. At Makers Academy I have had the opportunity of putting it again into practice. During one of those difficult days pairing with a person with a very different type of personality from mine, I managed to keep the working environment enjoyable and fun while professional and productive.
 
 #### Communication
 
-My past experience has shown me that it is very important for everyone in the team to be aware and understand what the working process is. Working at Capita's Accounts Receivable team where the number of people involved was large, it was very important to keep everyone well informed, having frequent meetings either as a group or one to one in a daily basis. This was specially important when the team had to deal with an unexpected amount of work for a month that pushed us to keep the feedback going back and forth.
+My past experience has shown me that it is very important for everyone in the team to be aware and understand what the working process is. Working at Capita's Accounts Receivable team where the number of people involved in the same goal was large, it was very important to keep everyone well informed, I had frequent meetings either with the team or one to one in a daily basis. This was specially important when I had to deal with an unexpected amount of work for a month that forced me to keep the feedback coming.
 
 #### Fast learner
 
