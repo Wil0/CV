@@ -43,7 +43,7 @@ I have always found easy to learn new things, I was able to immerse myself in a 
 
 ## Experience
 
-**Capita Business Services (London)** (May 2015 to February 2016)    
+**Capita Business Services (London)** (May 2015 to February 2016)     
 *Accounts Receivable assistant*  
 
 **Mieres Tubos, S.L. – CONDESA Group (Spain)** (June 2011 to October 2014)   
