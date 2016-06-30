@@ -1,25 +1,25 @@
 ## Emilio Menendez
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-An enthusiastic, avid learner about almost anything life has to offer and specially with a fond passion for new technologies. I am proud of having had the opportunity of working in two different countries, Spain and England, that have taught me how important it is being open-minded, flexible and adaptable, always keen to learn and see the tough experiences as a part of the process of learning and gaining experience of other cultures and working styles. I am now looking for a new adventure and a new challenge within a friendly team that likes sharing both personal and professional aspects of life.
+An enthusiastic, avid learner about everything life has to offer, and especially a passion for new technologies. I am proud to have had the opportunity to work in two different countries, Spain and England, this has taught me how important it is to be open-minded, flexible and adaptable. I am always keen to learn and see tough challenges as a part of the process of growing and gaining experience of other cultures and working styles. I am now looking for a new adventure and a new challenge within a friendly team that likes sharing both personal and professional aspects of life.
 
 ## Skills
 
 #### Attention to detail
 
-During my time working as member of Mieres Tubos's Accounts team I learnt to be very precise looking after every single piece of information. During monthly close periods accuracy was key to maintain the accounts up to date and ready to be presented without delays, so it was my responsibility take care of the final information.
+During my time working as a member of the accounts team at Mieres Tubos I learnt to be very precise, every single piece of information had to be just right. During our monthly closed periods accuracy was key. The accounts had to be kept up to date and ready to be presented without delays, it was my responsibility to take care of the final draft and make sure everything was perfect.
 
 #### Pair programming
 
-I really enjoy working within a team or with another person from whom I can learn and to whom I can contribute with my experience. When at university I found out than it was much easier learning by sharing knowledge. At Makers Academy I have had the opportunity of putting it again into practice. During one of those difficult days pairing with a person with a very different type of personality from mine, I managed to keep the working environment enjoyable and fun while professional and productive.
+I truly enjoy working side by side with passionate people from whom I can learn and to whom I can contribute with my experience. When at university I found out than it was much easier learning by sharing knowledge. At Makers Academy I have had the opportunity to put this into practice again. Some times I would be faced with a difficult personality to pair with but I would always make sure that the working environment was enjoyable and fun whilst professional and productive.
 
 #### Communication
 
-My past experience has shown me that it is very important for everyone in the team to be aware and understand what the working process is. Working at Capita's Accounts Receivable team where the number of people involved in the same goal was large, it was very important to keep everyone well informed, I had frequent meetings either with the team or one to one in a daily basis. This was specially important when I had to deal with an unexpected amount of work for a month that forced me to keep the feedback coming.
+My past experience has shown me that it is always important for everyone in the team to be aware and to understand what the working process is. At Capita's Accounts Receivable team, as there were so many of us, it was very important to keep everyone well informed. During a particular month with an unexpected amount of work I found this incredibly useful and especially important when I had to avoid overlapping tasks in the team.
 
 #### Fast learner
 
-I have always found easy to learn new things, I was able to immerse myself in a highly demanding English work environment six months after arriving to England. During the 12 weeks in Makers Academy I had the chance to push myself even further, learning completely new programming languages in a short space of time.
+I have always found it easy to learn new things, I was able to immerse myself in a highly demanding English work environment six months after arriving in England. During the 12 weeks in Makers Academy I had the chance to push myself even further, learning completely new programming languages in both a short space of time and a foreign language.
 
 **Projects I contributed to:**
 
@@ -53,7 +53,7 @@ I have always found easy to learn new things, I was able to immerse myself in a 
 **Mieres Tubos, S.L. – CONDESA Group (Spain)** (June 2011 to October 2014)   
 *Accounting Assistant / Bookkeeping Duties*
 
-**Bazar el Pilar Spain)** (December 2010 to May 2011)
+**Bazar el Pilar (Spain)** (December 2010 to May 2011)
 *Retail  Store Sales Assistant*
 
 **Mieres Tubos, S.L. –  CONDESA Group (Spain)**(April 2010 to November 2010)
@@ -61,5 +61,5 @@ I have always found easy to learn new things, I was able to immerse myself in a 
 
 ## Hobbies
 
-- I like reading Stephen King's novels, they usually make me travel back in time to the 50's - 70's where life was quieter but sadly lacked of technology.
-- I have recently developed a taste for table tennis, I am not very good player yet, but it is just a matter of time!
+- I like reading Stephen King novels, they make me travel back in time to the 50's - 70's where life was quieter but sadly lacking in technology.
+- I have recently developed a taste for table tennis, I am not a very good player yet, but it is just a matter of time!
