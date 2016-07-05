@@ -40,7 +40,7 @@ I have always found it easy to learn new things, I was able to immerse myself in
 #### Expert's Degree in Auditing and Accounting (September 2007 to July 2008)
 *College of Economists of Asturias and Faculty of Economics and Business, University of Oviedo (Spain)*
 
-#### Degree in Business Administration and  Management (September 2001 to July 2007)
+#### Bachelor's Degree in Business Administration and  Management (September 2001 to July 2007)
 *Faculty of Economics and Business, University of Oviedo (Spain)*
 
 *Subjects: Accounting and Auditing, Finance, Taxation, Business Control, Management*
