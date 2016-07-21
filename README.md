@@ -1,4 +1,4 @@
-## Emilio Menendez
+## Emilio Menendez Sanchez
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
 I have a need for challenges. It helps me to keep my brain sharp. And I found out a way to do so whilst practicing what I truly like to do: coding.
