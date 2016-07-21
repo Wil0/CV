@@ -1,7 +1,8 @@
 ## Emilio Menendez
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
-I have a need for challenges. It helps me to keep my brain sharp. And I found out a way to do so whilst I practice what I truly like to do: coding.I did not have a computer until I was around 15 years old. My mum was afraid of the Internet and I don’t blame her. I guess that getting my that PC was my very first real challenge, but it was definitely worth it.  And once I stepped on my recently discovered new world, I was not going to let it go.
+I have a need for challenges. It helps me to keep my brain sharp. And I found out a way to do so whilst practicing what I truly like to do: coding.
+I did not have a computer until I was around 15 years old. My mum was afraid of the Internet and I don’t blame her. I guess that getting my that PC was my very first real challenge, but it was definitely worth it.  And once I stepped on my recently discovered new world, I was not going to let it go.
 Nevertheless life got in the way and at university I studied Business Administration. I soon realized that the thing that appealed me the most was to figure out a solution when a new problem would come across. Surprisingly, it was not the solution what satisfied me but the previous research, the challenge which would push me to go on until I’d got there.
 Same thing happened to me in the professional world. I liked what I was doing, but I needed more. So my first decision was to come to England because I wanted to experience a different work environment and well, because I wanted a new challenge. Several months of struggle and here I was when I came across a 12-week course in London that would teach you how to be a web developer. They asked you for just one thing: Are you ready to take the challenge?
 I think you can guess my answer.
