@@ -1,5 +1,5 @@
 ## Emilio Menendez
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Contact](#contact)
 
 An enthusiastic, avid learner about everything life has to offer, and especially a passion for new technologies. I am proud to have had the opportunity to work in two different countries, Spain and England, this has taught me how important it is to be open-minded, flexible and adaptable. I am always keen to learn and see tough challenges as a part of the process of growing and gaining experience of other cultures and working styles. I am now looking for a new adventure and a new challenge within a friendly team that likes sharing both personal and professional aspects of life.
 
@@ -63,3 +63,7 @@ I have always found it easy to learn new things, I was able to immerse myself in
 
 - I like reading Stephen King novels, they make me travel back in time to the 50's - 70's where life was quieter but sadly lacking in technology.
 - I have recently developed a taste for table tennis, I am not a very good player yet, but it is just a matter of time!
+
+##Contact
+
+I am at emsmnndz@gmail.com
