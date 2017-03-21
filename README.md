@@ -55,6 +55,8 @@ I have always found it easy to learn new things, I was able to immerse myself in
 *Subjects: Accounting and Auditing, Finance, Taxation, Business Control, Management*
 
 ## Experience
+**babylon health (London)** (August 2016 - current role)
+*Ruby on Rails Junior Developer*  
 
 **Capita Business Services (London)** (May 2015 to February 2016)     
 *Accounts Receivable assistant*  
@@ -73,6 +75,6 @@ I have always found it easy to learn new things, I was able to immerse myself in
 - I like reading Stephen King novels, they make me travel back in time to the 50's - 70's where life was quieter but sadly lacking in technology.
 - I have recently developed a taste for table tennis, I am not a very good player yet, but it is just a matter of time!
 
-##Contact
+## Contact
 
 I am at emsmnndz@gmail.com
